@@ -1,8 +1,7 @@
 # Cybersecurity Journey
 
 ## About Me
-Hi! I'm Noorulain Qadri, a BS Software Engineering student passionate about Cybersecurity.
-
+Hi! I'm Noorulain Qadri, a BS Software Engineering student with a passion for cybersecurity. I am currently building practical skills in Linux, networking, Python, and ethical hacking while preparing for a career in cybersecurity.
 ## Goals
 - Learn Linux
 - Master Networking
